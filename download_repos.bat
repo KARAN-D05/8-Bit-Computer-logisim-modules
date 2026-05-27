@@ -1,3 +1,5 @@
+:: Windows Repository Downloader
+
 @echo off
 setlocal enabledelayedexpansion
 title KARAN-D05 - Repo Downloader
@@ -71,16 +73,6 @@ for %%T in (%CHOICE%) do (
             set /a FAILED+=1
         )
     )
-)
-
-if %DOWNLOADED% GTR 0 (
-    echo.
-    echo  Fetching utils ......
-    if not exist "utils" mkdir utils
-    curl -L -o "_portmap-HDL-temp.zip" "%BASE_URL%/portmap-HDL/archive/refs/heads/%BRANCH%.zip" --silent
-    tar -xf "_portmap-HDL-temp.zip" --strip-components=2 -C "utils" "portmap-HDL-%BRANCH%/utils/" 2>nul
-    del "_portmap-HDL-temp.zip" >nul 2>&1
-    echo  Done.
 )
 
 echo.
