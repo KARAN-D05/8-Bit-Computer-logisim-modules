@@ -30,11 +30,10 @@ It explores both **discrete component designs** and **IC-based implementations**
 - Fully simulated in Falstad for easy testing before hardware implementation
 
 ## How to Use
-1. Open [Falstad Circuit Simulator](https://falstad.com/circuit/). 
-2. Copy the text file for the desired circuit (e.g., `monostable clock.txt`). 
+1. Open [Falstad Circuit Simulator](https://www.falstad.com/circuit/circuitjs.html). 
+2. Copy the text file for the desired circuit (e.g., `monostable clock.falstad`). 
 3. In the simulator, click **File → Import from Text**. 
 4. Paste the copied text into the dialog box and press **OK**. 
 
 ## Images
 - All schematics, simulation snapshots, and diagrams are stored in the `images/` folder.
-
