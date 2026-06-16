@@ -7,10 +7,6 @@
   <sub></b> ⚙️ System Integration - Registers, Memory, ALU, Program Counter and Display Connected (Performing Addition [A] ← [A] + [B])
 </p>
 
-## 🧠 About  
-- This project is my attempt to explore how computers work **fundamentally at the gate level**.  
-I aim to design and build a fully functional 8-bit CPU from scratch.  
-
 ## 🎯My Approach: 
 - Before simulation, each module is designed conceptually using hand-drawn block diagrams and written reasoning to validate the logic flow through mental simulation and small example cases.
 - The block diagram is then refined into a rough structural, gate-level representation before being implemented, debugged, and rigorously tested in digital logic simulators such as Logisim Evolution and Falstad.
@@ -20,6 +16,12 @@ I aim to design and build a fully functional 8-bit CPU from scratch.
 ![Verilog](https://img.shields.io/badge/Verilog-FFEA00?style=for-the-badge&logoColor=black)
 ![Logisim Circuits](https://img.shields.io/badge/Logisim%20Circuits-00C853?style=for-the-badge)
 ![Falstad Analog Circuits](https://img.shields.io/badge/Falstad%20Analog%20Circuits-2196F3?style=for-the-badge)
+
+## 🛠️ Toolchain
+![Icarus Verilog](https://img.shields.io/badge/Icarus%20Verilog-1E88E5?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-8E24AA?style=for-the-badge)
+![Yosys](https://img.shields.io/badge/Yosys-F4511E?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## ✅ Modules Validated  
 - [Clock Module](CLOCK)
