@@ -45,17 +45,6 @@
   <sub><b>💾 Registers & Bus System </b></sub>
 </p>
 
-## 🔍 Verilog Implementations
-- [Clock](CLOCK/CLOCK-Verilog)
-- [Set-Only Latch](registers_AND_bus/Verilog)
-
-<p align="center">
-  <img src="CLOCK/CLOCK-Verilog/Clock-Module/images/waveform.png" 
-       width="2000"/>
-  <br>
-  <sub></b> Clock Module
-</p>
-
 ## 📂 Project Structure  
 Each module will have its own folder containing:  
 - A dedicated **README.md** explaining design, features, and usage  
