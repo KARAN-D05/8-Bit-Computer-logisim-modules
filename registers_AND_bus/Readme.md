@@ -13,15 +13,11 @@ The design allows any register to **input or output data** to the shared 8-bit d
   <img src="images/registers_AND_bus.png" width="700">
 </p>
 
----
-
 ## Features
 - **Four 8-bit registers** connected via a single data bus 
 - **Bidirectional data flow** between registers and bus 
 - **Control pins** for selective loading or enabling registers 
 - Demonstrates how CPUs manage data transfer at the gate level 
-
----
 
 ## How to Use (Logisim)
 - Download the raw [circuit file](DataBus.circ)
@@ -30,4 +26,3 @@ The design allows any register to **input or output data** to the shared 8-bit d
 
 ## Images
 All schematics and snapshots of the module are stored in the `images/` folder.
-
