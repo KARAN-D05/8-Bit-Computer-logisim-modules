@@ -23,4 +23,4 @@
 - Download the [circuit file](Random_Access_Memory.circ) from RAM folder
 - Click the download raw file button to save it locally on your device
 - install and open [logisim evolution](https://github.com/logisim-evolution/logisim-evolution/releases)
-- Open the downloaded file in logisim evolution and the circuit will be ready for you to interact with it
+- Open the downloaded file in logisim evolution and the circuit will be ready for you to interact with it.
