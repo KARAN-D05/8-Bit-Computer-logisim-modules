@@ -36,4 +36,4 @@ It explores both **discrete component designs** and **IC-based implementations**
 4. Paste the copied text into the dialog box and press **OK**. 
 
 ## Images
-- All schematics, simulation snapshots, and diagrams are stored in the `images/` folder.
+- All schematics, simulation snapshots, and diagrams are stored in the `images` folder.
