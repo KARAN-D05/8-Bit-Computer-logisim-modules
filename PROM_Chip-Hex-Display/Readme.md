@@ -6,7 +6,7 @@
 </p>
 
 ## Features
-- Built using the [Memory module](../RAM)and configured  into a Programmable ROM chip.
+- Built using the [RAM](../RAM)and configured  into a Programmable ROM chip.
 - It has 16 Memory cells(C0-C15), each cell capable of stroing 8 Bits of data.
 - Each cell have a unique address and can be adressed using the adress decoders.
 - Pins:
