@@ -33,4 +33,4 @@
 - Open the downloaded file in logisim evolution and the circuit will be ready for you to interact with it
 
 ## Schematics
-- Schematics of all the circuits and sub-circuits have been uploaded in the images folder
+- Schematics of all the circuits and sub-circuits have been uploaded in the images folder.
