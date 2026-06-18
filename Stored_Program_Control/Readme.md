@@ -36,4 +36,4 @@
 - Ix_y, x=1,2,3,4 is the sequence in which instuctions will be executed
 
 ## 👉 More of Stored Program Architecture
-- Refer [This](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch/tree/main/RAM_V4)-> Autonomous Custom Built Arithmetic Machine Version-4
+- Refer [This](https://github.com/KARAN-D05/Computing_Machinery_from_Scratch/tree/main/RAM_V4)-> Autonomous Custom Built Arithmetic Machine Version-4.
