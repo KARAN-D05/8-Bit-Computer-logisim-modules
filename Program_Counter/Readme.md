@@ -15,4 +15,4 @@
 - CTR_ENABLE: Enable the counter to perform any operation.
 - BUS_LOAD: Allow the Program counter to load the data on the bus into the program counter
 - BUS_ENABLE: Allow the data in program counter onto the bus.
-- RESET: To reset the data in the counter.
+- RESET: To reset the data in the counter
