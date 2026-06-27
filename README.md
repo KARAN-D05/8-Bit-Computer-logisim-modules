@@ -1,4 +1,4 @@
-# 🏗️ 8-Bit Computer  
+# 🏗️ 8-Bit Computer logisim modules
 
 <p align="center">
   <img src="System_Integration/Video/System-Performing-Arithmetic.gif" 
@@ -13,7 +13,6 @@
 - Where possible, I explore multiple design approaches to achieve the same functionality, comparing behavior, complexity, and design trade-offs before finalizing an implementation. 
 
 ## ⚙️ Implementation Stack
-![Verilog](https://img.shields.io/badge/Verilog-FFEA00?style=for-the-badge&logoColor=black)
 ![Logisim Circuits](https://img.shields.io/badge/Logisim%20Circuits-00C853?style=for-the-badge)
 ![Falstad Analog Circuits](https://img.shields.io/badge/Falstad%20Analog%20Circuits-2196F3?style=for-the-badge)
 
@@ -43,30 +42,6 @@
 Each module will have its own folder containing:  
 - A dedicated **README.md** explaining design, features, and usage  
 - **Images** of schematics, simulations, and hardware builds  
-
-## 🎯 Goals  
-- Understand computation from the ground up  
-- Document the full design and build process  
-- Share schematics, notes, and experiments for others to learn from
-
-## ⬇️ Download This Repository
-
-### 🪟 Windows
-Download → [download_repos.bat](./download_repos.bat)
-``` 
-Double-click it and pick the repo(s) you want.
-```
-
-### 🐧 Linux / macOS
-Download → [download_repos.sh](./download_repos.sh)
-```
-bash
-
-chmod +x download_repos.sh
-./download_repos.sh
-```
-
-> Always downloads the latest version.
 
 ## 📜 License
 - Source code, HDL, and Logisim circuit files are licensed under the MIT License.
