@@ -1,5 +1,9 @@
 # 🏗️ 8-Bit Computer logisim modules
 
+> **Status:** Archived
+
+This repository contains my original Logisim-based exploration of computer architecture. While the complete computer was not finished, it includes several independently developed modules such as RAM, Programmable ROM, ALU, registers, and display interface. 
+
 <p align="center">
   <img src="System_Integration/Video/System-Performing-Arithmetic.gif" 
        width="1200"/>
